@@ -12,37 +12,37 @@ description: "One awesome, driven dude."
 # Team names, titles and social links
 people:
 - name: Alex Maschoff
-  pic: 1
+  pic: alex-maschoff.jpg
   position: Lead Designer
   social:
     - title: twitter
       url: https://twitter.com/alexmaschoff
     - title: facebook
       url: https://www.facebook.com/alex.maschoff.3
-    #- title: stack-overflow
-     # url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/alex-maschoff-3a861a31/
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+- #name: Larry Parker
+  #pic: 2
+  #position: Lead Marketer
+  #social:
+    - #title: twitter
+      #url: #
+    - #title: facebook
+      #url: #
+    - #title: linkedin
+      #url: #
+
+- #name: Diana Petersen
+  #pic: 3
+  #position: Lead Developer
+  #social:
+    - #title: twitter
+      #url: #
+    - #title: facebook
+      #url: #
+    - #title: google-plus
+      #url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
