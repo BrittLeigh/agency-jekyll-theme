@@ -12,7 +12,7 @@ description: "One awesome, driven dude."
 # Team names, titles and social links
 people:
 - name: Alex Maschoff
-  pic: alex-maschoff.jpg
+  pic: 1
   position: Lead Designer
   social:
     - title: twitter
