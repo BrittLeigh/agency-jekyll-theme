@@ -44,9 +44,9 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/alex-maschoff
+    url: http://twitter.com/alexmaschoff
   - title: facebook
-    url: http://facebook.com/alex-maschoff-3
+    url: http://facebook.com/alex.maschoff.3
   #- title: stack-overflow
   #  url: http://stackoverflow.com/questions/tagged/jekyll
   #- title: bitbucket 
