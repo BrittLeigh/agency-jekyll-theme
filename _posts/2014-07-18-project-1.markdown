@@ -9,7 +9,7 @@ thumbnail: Kingdom-Hoops.jpg
 alt: Kingdom Hoops
 project-date: 2011-2017
 client: Kingdom Hoops
-category: Executive Director
+category: Executive Director, Director of Operations
 description: Description of your project placed here.
 
 ---
